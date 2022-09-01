@@ -1,0 +1,72 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<div class="row">
+    <div class="col-md-9">
+        <div class="product-info">
+            <div class="card" style="width:25%">
+            <img class="card-img-top" src="~/img/VanGogh.jpg" alt="Card image cap" />
+            <div class="card-body">
+            <h3 class="card-title">Painting</h3>
+            <ul class="products-props">
+                <li>Price: $9.99</li>
+                <li>Artist: Unknown</li>
+                <li>Title: Mistery Face</li>
+                <li>Description: Apstraktion </li>
+            </ul>
+            <button id="buyButton" class="btn btn-success">Buy</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="theForm">
+            <form>
+                <label>Username:</label>
+                <br />
+                <input />
+                <br />
+                <label>Email:</label>
+                <br />
+                <input type="email" />
+                <br />
+                <label>Subject:</label>
+                <br />
+                <input type="text" />
+                <br />
+                <label>Message:</label>
+                <br />
+                <textarea rows="4"> </textarea>
+                <br />
+                <input type="submit" value="Send Message" />
+            </form>
+        </div>
+
+        <div class="col-md-9">
+            <div id="loginToggle">Login</div>
+            <form class="popup-form">
+                <div class="row mb-3">
+                    <label for="inputName" class="col-sm-2 col-form-lable">Username</label>
+                    <div class="row-cols-3">
+                        <input type="text" class="form-control" id="inputName" />
+                    </div>
+                </div>
+                <div>
+                    <label for="inputPassword" class="col-sm-2 col-form-label">Password</label>
+                    <div class="row-cols-3">
+                        <input type="password" class="form-control" id="inputPassword" />
+                    </div>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" name="checkBox" id="checkBox1"/>
+                    <label class="form-check-label" for="checkBox1">Remember me?</label>
+                </div>
+                <div>
+                    <input type="submit" class="btn btn-primary" value="Login" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <p>Buy our art products.</p>
+    </div>
+</div>
