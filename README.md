@@ -1,7 +1,6 @@
 # ExempelProject_9_1
 
 Skapa ProductController
-	
 	konstruktor för repository och logger
 	Route
 	GET med try catch
@@ -21,9 +20,9 @@ I ExempelRepository kommer ni att ha
 GetOrderById
 
 	OrdersController
-		lägga till HttpGet
-		Generate method 
-		ExempelRepository implement interface
+	lägga till HttpGet
+	Generate method 
+	ExempelRepository implement interface
 
 
 Lägga till nya product via POSTMAN
@@ -37,7 +36,7 @@ Lägga till nya product via POSTMAN
 Validation och ViewModels
 
 	ContactViewModel
-		HttpPost - newOrder
+	HttpPost - newOrder
 	Testa i POSTMAN
 
 AutoMapper
