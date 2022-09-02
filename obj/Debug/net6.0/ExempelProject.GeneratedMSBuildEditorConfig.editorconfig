@@ -8,45 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ExempelProject
 build_property.RootNamespace = ExempelProject
-build_property.ProjectDir = E:\webb\Examples\Lektion 1.9\
+build_property.ProjectDir = E:\webb\ExempelProject_9_1\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = E:\webb\Examples\Lektion 1.9
+build_property.MSBuildProjectDirectory = E:\webb\ExempelProject_9_1
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/webb/Examples/Lektion 1.9/Pages/Error.cshtml]
+[E:/webb/ExempelProject_9_1/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/webb/Examples/Lektion 1.9/Pages/_ViewStart.cshtml]
+[E:/webb/ExempelProject_9_1/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/webb/Examples/Lektion 1.9/Views/App/About.cshtml]
+[E:/webb/ExempelProject_9_1/Views/App/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEFib3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/webb/Examples/Lektion 1.9/Views/App/Contact.cshtml]
+[E:/webb/ExempelProject_9_1/Views/App/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXENvbnRhY3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/webb/Examples/Lektion 1.9/Views/App/Index.cshtml]
+[E:/webb/ExempelProject_9_1/Views/App/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/webb/Examples/Lektion 1.9/Views/App/Shop.cshtml]
+[E:/webb/ExempelProject_9_1/Views/App/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXFNob3AuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/webb/Examples/Lektion 1.9/Views/Shared/_Layout.cshtml]
+[E:/webb/ExempelProject_9_1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/webb/Examples/Lektion 1.9/Views/_ViewImports.cshtml]
+[E:/webb/ExempelProject_9_1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/webb/Examples/Lektion 1.9/Views/_ViewStart.cshtml]
+[E:/webb/ExempelProject_9_1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

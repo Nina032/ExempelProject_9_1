@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eh5inFuJ/b5Q32bR7GcbxJh8z47dpdlXE/96QOuiEncgHVm6/wpZBEZjN7/Q1q/1jkzrd5bGCAMIwoLL//XUiA==",
+  "dgSpecHash": "+fgsJU5qkGTjbu68Y+/3wL4qZ6ycramOi7x2e0jIniNwKQR1j6Zg2t1Y2se2+1RThr4+twpXoXaEKDDK290FPg==",
   "success": true,
-  "projectFilePath": "E:\\webb\\Examples\\Lektion 1.9\\ExempelProject.csproj",
+  "projectFilePath": "E:\\webb\\ExempelProject_9_1\\ExempelProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nina\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Nina\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
